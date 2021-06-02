@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/rsriniva/taxcalc.git"
+    "url": "http://github.com/learnacha/taxcalc.git"
   },
   "author": "Ravi Srinivasan <ravis@redhat.com>",
   "license": "MIT",
   "bugs": {
-    "url": "http://github.com/rsriniva/taxcalc/issues"
+    "url": "http://github.com/learnacha/taxcalc/issues"
   },
-  "homepage": "http://github.com/rsriniva/taxcalc"
+  "homepage": "http://github.com/learnacha/taxcalc"
 }

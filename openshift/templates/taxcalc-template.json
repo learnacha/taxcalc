@@ -10,7 +10,7 @@
       "iconClass": "icon-nodejs",
       "template.openshift.io/long-description": "This template defines resources needed for the taxcalc micro service",
       "template.openshift.io/provider-display-name": "Red Hat, Inc.",
-      "template.openshift.io/documentation-url": "https://github.com/rsriniva/taxcalc"
+      "template.openshift.io/documentation-url": "https://github.com/learnacha/taxcalc"
     }
   },
   "message": "The following service(s) have been created in your project: ${NAME}, ${DATABASE_SERVICE_NAME}.\n\n",
@@ -445,7 +445,7 @@
       "displayName": "Git Repository URL",
       "description": "The URL of the repository with your application source code.",
       "required": true,
-      "value": "https://github.com/rsriniva/taxcalc.git"
+      "value": "https://github.com/learnacha/taxcalc.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
