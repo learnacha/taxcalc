@@ -344,6 +344,15 @@
                     }
                   },
                   {
+                    "name": "MY_CONFIG",
+                    "valueFrom": {
+                      "configMapKeyRef": {
+                        "key": "config-ser.json",
+                        "name": "test-config"
+                      }
+                    }
+                  },
+                  {
                     "name": "MONGODB_PASSWORD",
                     "valueFrom": {
                       "secretKeyRef" : {
