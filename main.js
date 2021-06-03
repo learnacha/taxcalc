@@ -69,7 +69,7 @@ route.get('/', function(req, res) {
 });
 
 route.get('/sri', function(req, res) {
-    // const data = loadFile();
+    const data = loadFile();
     res.send('Hi! I am running on host -> ' + hostname + '\n');
 });
 
