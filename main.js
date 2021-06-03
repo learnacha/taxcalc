@@ -63,6 +63,7 @@ app.get('/', (req, res) => {
 route.get('/', function(req, res) {
     const data = loadFile();
     res.send('Hi! I am running on host -> ' + hostname + '\n');
+    
     // res.send('data', JSON.stringify(data));
     // res.send('data', JSON.parse(data));
 });

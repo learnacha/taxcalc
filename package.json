@@ -12,7 +12,8 @@
     "npm": "*"
   },
   "scripts": {
-    "start": "node main.js"
+    "start": "node main.js",
+    "push": "git add . && git commit -m 'commited' && git push"
   },
   "repository": {
     "type": "git",
