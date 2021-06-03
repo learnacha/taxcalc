@@ -44,6 +44,7 @@ app.get('/', (req, res) => {
     
             // parse JSON string to JSON object
             const databases = JSON.parse(data);
+            console.log(databases);
 
             return databases;
     
@@ -61,9 +62,9 @@ app.get('/', (req, res) => {
 // A route that dumps hostname information from pod
 route.get('/', function(req, res) {
     const data = loadFile();
-    // res.send('Hi! I am running on host -> ' + hostname + '\n' + 'config' + process.env.MY_CONFIG);
-    res.send('data', JSON.stringify(data));
-    res.send('data', JSON.parse(data));
+    res.send('Hi! I am running on host -> ' + hostname + '\n');
+    // res.send('data', JSON.stringify(data));
+    // res.send('data', JSON.parse(data));
 });
 
 // This route handles tax calculation for our service
