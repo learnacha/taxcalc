@@ -1,0 +1,2254 @@
+{
+    "countries": [
+        {
+          "countryCode": "AD",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AF",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AL",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ANY",
+          "addressFields": [
+            "COUNTRY",
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AQ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AX",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "AZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BB",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BD",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BF",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BH",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BJ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BL",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BQ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BV",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BY",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "BZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "STATE",
+            "CITY",
+            "ZIP"
+          ]
+        },
+        {
+          "countryCode": "CC",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CD",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CF",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CH",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CK",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CL",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "STATE",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CV",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CX",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CY",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "CZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "DE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "DJ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "DK",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "DM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "DO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "DZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "EC",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "EE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "EG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ER",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ES",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ET",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "FI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "FJ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "FK",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "FM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "FO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "FR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GB",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY",
+            "ZIP"
+          ]
+        },
+        {
+          "countryCode": "GD",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GF",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GH",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GL",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GP",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GQ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "GY",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "HM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "HN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "HR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "HT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "HU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ID",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "IE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "IL",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "IM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "IN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "STATE",
+            "CITY",
+            "ZIP"
+          ]
+        },
+        {
+          "countryCode": "IO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "IQ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "IR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "IS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "IT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "JE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "JM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "JO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "JP",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KH",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KP",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KY",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "KZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "LA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "LC",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "LI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "LK",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "LS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "LT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "LU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "LV",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "LY",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MC",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MD",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ME",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MF",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MH",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MK",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ML",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MP",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MQ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MV",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MX",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MY",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "MZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NC",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NF",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NL",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NP",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "NZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "OM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "OU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PF",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PH",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PK",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PL",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "PY",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "QA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "RE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "RK",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "RO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "RS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "RU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "RW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SB",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SC",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SD",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SH",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SJ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SK",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SL",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ST",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SV",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SX",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SY",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "SZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TC",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TD",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TF",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TH",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TJ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TK",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TL",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TO",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TR",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TV",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "TZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "UA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "UG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "UM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "US",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "STATE",
+            "CITY",
+            "ZIP"
+          ]
+        },
+        {
+          "countryCode": "UY",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "UZ",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "VA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "VC",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "VE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "VG",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "VI",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "VN",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "VU",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "WF",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "WS",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "YE",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "YT",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ZA",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ZM",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        },
+        {
+          "countryCode": "ZW",
+          "addressFields": [
+            "ADDRESS1",
+            "ADDRESS2",
+            "ADDRESS3",
+            "CITY"
+          ]
+        }
+      ]
+}

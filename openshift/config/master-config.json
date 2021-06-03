@@ -1,0 +1,432 @@
+{
+    "config": {
+        "validation": [
+          {
+            "type": "channel",
+            "value": "WEB",
+            "data": [
+              {
+                "type": "module",
+                "value": "MYB",
+                "data": [
+                  {
+                    "type": "system",
+                    "value": "ALL",
+                    "data": [
+                      {
+                        "type": "name",
+                        "value": "excluded_currencies_mcp",
+                        "data": "IRR"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_enabled",
+                        "data": "TRUE"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_enabled_products",
+                        "data": "TIER_UPGRADE, FLIGHT"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_payment_details_error",
+                        "data": "CPGERR_TYPE_CPG,CPGERR_TYPE_ISSUER,IBE0025,IBE0001:CPGERR_TYPE_CPG,CPGERR_TYPE_ISSUER,PD_PFMSGBODY,CPGERR_TYPE_PGSP,WASERR01 - NO TSM TO PROCESS,FULL_NAME_MISMATCH,VOUCHER_VALIDITY_EXPIRED,VOUCHER_STATUS_INVALID,TECHNICAL_ERROR,COVID_REMARKS_NOT_FOUND,RFIC_CODE_MISMATCH,pgsp-error,issuer-error"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_idle_time",
+                        "data": "10"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_disabled_countries",
+                        "data": "CL,PE,UY,BG,RO,RU,BR,PL,DE"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_enabled_languages",
+                        "data": "english"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_estimated_wait_time",
+                        "data": "20"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chatjs_version",
+                        "data": "v1"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_host",
+                        "data": "https://chat.emirates.com"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_base_location",
+                        "data": "ui/chatjs"
+                      },
+                      {
+                        "type": "name",
+                        "value": "MCP_Applicable",
+                        "data": "true"
+                      },
+                      {
+                        "type": "name",
+                        "value": "MCP_Disabled_Currencies",
+                        "data": "INR,BRL,LKR,TND,LYD,ETB,RUB,DKK,ARS,DZD,TWD,UAH"
+                      },
+                      {
+                        "type": "name",
+                        "value": "product_code_PAIDTIER",
+                        "data": "TIER UPGRADE"
+                      },
+                      {
+                        "type": "name",
+                        "value": "pre-paymentprocess_products",
+                        "data": "PAIDTIER"
+                      },
+                      {
+                        "type": "name",
+                        "value": "pre_payment_service",
+                        "data": "fly10.emirates.com/prepaymentservice"
+                      },
+                      {
+                        "type": "name",
+                        "value": "post-paymentprocess_products",
+                        "data": "PAIDTIER"
+                      },
+                      {
+                        "type": "name",
+                        "value": "Terms_Conditions_PAIDTIER",
+                        "data": "PRIVACY_POLICY, ONLINEBOOK_TC, PAIDTIER_TC"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_web_page_id",
+                        "data": "1"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_webpage_origin",
+                        "data": "PaymentDetails"
+                      },
+                      {
+                        "type": "name",
+                        "value": "EMDproducts",
+                        "data": "PAIDTIER"
+                      },
+                      {
+                        "type": "name",
+                        "value": "payment_desc_PAIDTIER",
+                        "data": "Tier upgrade from [OLDTIER] to [NEWTIER]"
+                      },
+                      {
+                        "type": "name",
+                        "value": "WEB_payment_desc"
+                      },
+                      {
+                        "type": "name",
+                        "value": "WEB_payment_contactInfo"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_enabled_pos_countries",
+                        "data": "AE,AF,AO,AR,AT,AU,BD,BE,BH,BR,CA,CH,CI,CN,CY,CZ,DE,DK,DZ,EE,EG,EN,ES,ET,FI,FR,GB,GH,GN,GR,HK,HU,ID,IE,IN,IQ,IR,IS,IT,JO,JP,KE,KR,KW,LB,LK,LT,LV,LY,MA,MT,MU,MV,MX,MY,NG,NL,NO,NZ,OM,PH,PK,PL,PT,QA,RU,SA,SC,SD,SE,SG,SN,SY,TH,TN,TR,TW,TZ,UA,UG,UK,US,VN,YE,ZA,ZM,ZW,CO,EC"
+                      },
+                      {
+                        "type": "name",
+                        "value": "footerOptions",
+                        "data": "{\"logo\":\"URP/Navigation/Footer/site-logo-image\",\"logoPosition\":\"right\",\"bookingFooterLinks\":true,\"generalFooterLinks\":true,\"redirectUrl\":\"URP/Navigation/Footer/logo-endpoint-url\"}"
+                      },
+                      {
+                        "type": "name",
+                        "value": "termsAndConditions",
+                        "data": "{\"termsAndConditions\":[{\"productType\":\"FLIGHT\",\"value\":\"FARE_CONDITIONS,CONDITIONS_CARRIAGE,ONLINEBOOK_TC,PRIVACY_POLICY\",\"order\":1},{\"productType\":\"HOLD_FLIGHT\",\"value\":\"FARE_CONDITIONS,CONDITIONS_CARRIAGE,ONLINEBOOK_TC,PRIVACY_POLICY\",\"order\":2},{\"productType\":\"HOTEL\",\"value\":\"PRIVACY_POLICY,ONLINEBOOK_TC,HOTELS,DUBAI_EXPERIENCE\",\"order\":3},{\"productType\":\"ACTIVITY\",\"value\": \"PRIVACY_POLICY,ONLINEBOOK_TC,ACTIVITIES,DUBAI_EXPERIENCE\",\"order\":4},{\"productType\":\"TRANSFERS\",\"value\":\"PRIVACY_POLICY,ONLINEBOOK_TC,TRANSFERS,DUBAI_EXPERIENCE\",\"order\":5},{\"productType\":\"TIER_UPGRADE\",\"value\":\"PRIVACY_POLICY,ONLINEBOOK_TC,TIER_UPGRADE_TC\",\"order\":6}]}"
+                      },
+                      {
+                        "type": "name",
+                        "value": "conditionsOfCarriageCountries",
+                        "data": "GB"
+                      },
+                      {
+                        "type": "name",
+                        "value": "surcharge_settings",
+                        "data": "{\"passengerTypes\": [\"ADT\",\"CHD\",\"GBE\",\"OFW\"],\"corporateCardPOS\": [\"GB\"],\"productTypes\":[\"FLIGHT\",\"HOTEL\",\"ACTIVITY\",\"TRANSFERS\",\"HOLD_FLIGHT\"]}"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_voucher_error_count",
+                        "data": "2"
+                      },
+                      {
+                        "type": "name",
+                        "value": "web_chat_payment_fail_check_time",
+                        "data": "90"
+                      },
+                      {
+                        "type": "name",
+                        "value": "headerOptions",
+                        "data": "{\"logo\":\"https://c.ekstatic.net/ecl/logos/emirates/emirates-logo-horizontal.svg?h=2ea0bcc0849e38053f0a3379be7e4c46?h=q8ymu7b\",\"logoPosition\":\"left\",\"langSelectorEnabled\":\"false\",\"redirectUrl\":\"https://sit.emirates.dev\"}"
+                      },
+                      {
+                        "type": "name",
+                        "value": "payment_credentials_shortcode",
+                        "data": "FST"
+                      },
+                      {
+                        "type": "name",
+                        "value": "payment_credentials_shortcode_server1",
+                        "data": "NTT"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "module",
+                "value": "ALL",
+                "data": [
+                  {
+                    "type": "system",
+                    "value": "ALL",
+                    "data": [
+                      {
+                        "type": "name",
+                        "value": "SPC_applicable",
+                        "data": "true"
+                      },
+                      {
+                        "type": "name",
+                        "value": "SPC_disabledPOS",
+                        "data": "NG"
+                      },
+                      {
+                        "type": "name",
+                        "value": "convert_phonetics",
+                        "data": "TRUE"
+                      },
+                      {
+                        "type": "name",
+                        "value": "SPC_disabledCardTypes",
+                        "data": "TPCARD"
+                      },
+                      {
+                        "type": "name",
+                        "value": "show_business_rewards_tab",
+                        "data": "true"
+                      },
+                      {
+                        "type": "name",
+                        "value": "post_payment_service",
+                        "data": "fly10.emirates.com/postpaymentservice"
+                      },
+                      {
+                        "type": "name",
+                        "value": "Terms_Conditions_TIER_UPGRADE",
+                        "data": "PRIVACY_POLICY, ONLINEBOOK_TC, TIER_UPGRADE_TC"
+                      },
+                      {
+                        "type": "name",
+                        "value": "termsAndConditions",
+                        "data": "{\"termsAndConditions\":[{\"productType\":\"FLIGHT\",\"value\":\"FARE_CONDITIONS,CONDITIONS_CARRIAGE,ONLINEBOOK_TC,PRIVACY_POLICY\",\"order\":1},{\"productType\":\"HOLD_FLIGHT\",\"value\":\"FARE_CONDITIONS,CONDITIONS_CARRIAGE,ONLINEBOOK_TC,PRIVACY_POLICY\",\"order\":2},{\"productType\":\"HOTEL\",\"value\":\"PRIVACY_POLICY,ONLINEBOOK_TC,HOTELS,DUBAI_EXPERIENCE\",\"order\":3},{\"productType\":\"ACTIVITY\",\"value\": \"PRIVACY_POLICY,ONLINEBOOK_TC,ACTIVITIES,DUBAI_EXPERIENCE\",\"order\":4},{\"productType\":\"TRANSFERS\",\"value\":\"PRIVACY_POLICY,ONLINEBOOK_TC,TRANSFERS,DUBAI_EXPERIENCE\",\"order\":5},{\"productType\":\"TIER_UPGRADE\",\"value\":\"PRIVACY_POLICY,ONLINEBOOK_TC,TIER_UPGRADE_TC\",\"order\":6}]}"
+                      },
+                      {
+                        "type": "name",
+                        "value": "conditionsOfCarriageCountries",
+                        "data": "GB"
+                      },
+                      {
+                        "type": "name",
+                        "value": "CPM_minimum_miles",
+                        "data": "1"
+                      },
+                      {
+                        "type": "name",
+                        "value": "CPM_redemption_products",
+                        "data": "FLIGHT,HOLD_FLIGHT"
+                      },
+                      {
+                        "type": "name",
+                        "value": "surcharge_settings",
+                        "data": "{\"passengerTypes\": [\"ADT\",\"CHD\",\"GBE\",\"OFW\"],\"corporateCardPOS\": [\"GB\"],\"productTypes\":[\"FLIGHT\",\"HOTEL\",\"ACTIVITY\",\"TRANSFERS\",\"HOLD_FLIGHT\"]}"
+                      },
+                      {
+                        "type": "name",
+                        "value": "taxBreakdownCountries",
+                        "data": "GB,IN,SG,US,FR,AR,CA,BR,HK"
+                      },
+                      {
+                        "type": "name",
+                        "value": "footerOptions",
+                        "data": "{\"logo\":\"URP/Navigation/Footer/site-logo-image\",\"logoPosition\":\"right\",\"bookingFooterLinks\":true,\"generalFooterLinks\":true,\"redirectUrl\":\"URP/Navigation/Footer/logo-endpoint-url\"}"
+                      },
+                      {
+                        "type": "name",
+                        "value": "baggageRuleCountries",
+                        "data": "US,CA,AR,BR"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "channel",
+            "value": "URP",
+            "data": [
+              {
+                "type": "module",
+                "value": "ALL",
+                "data": [
+                  {
+                    "type": "system",
+                    "value": "ALL",
+                    "data": [
+                      {
+                        "type": "name",
+                        "value": "field_name_length",
+                        "data": "50"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_card_length_minimum",
+                        "data": "14"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_card_length_maximum",
+                        "data": "19"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_address_line1_length",
+                        "data": "30"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_address_line2_length",
+                        "data": "30"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_address_line3_length",
+                        "data": "30"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_cvv_length_minimum",
+                        "data": "3"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_cvv_length_maximum",
+                        "data": "4"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_expiry_date_years",
+                        "data": "25"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_city_maxlength",
+                        "data": "40"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_address_total_length",
+                        "data": "40"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_length_IN",
+                        "data": "6"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_length_US",
+                        "data": "5"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_validation_US",
+                        "data": "[0-9]"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_validation_IN",
+                        "data": "[0-9]"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_validation_GB",
+                        "data": "[a-zA-Z0-9 ]"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_validation_BR",
+                        "data": "[0-9-]"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_state_length",
+                        "data": "15"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_validation_CA",
+                        "data": "[a-zA-Z0-9 ]"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_length",
+                        "data": "4"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_regex",
+                        "data": "[a-zA-Z0-9 ]"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_length_min",
+                        "data": "3"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_zip_length_max",
+                        "data": "10"
+                      },
+                      {
+                        "type": "name",
+                        "value": "taxBreakDownApplicable",
+                        "data": "US,CA,BR,IN"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_ssn_min_length",
+                        "data": "11"
+                      },
+                      {
+                        "type": "name",
+                        "value": "field_ssn_max_length",
+                        "data": "14"
+                      },
+                      {
+                        "type": "name",
+                        "value": "submethod_logo_limit",
+                        "data": "5"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+}
