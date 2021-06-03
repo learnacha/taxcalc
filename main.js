@@ -44,7 +44,8 @@ app.get('/', (req, res) => {
     
             // parse JSON string to JSON object
             const databases = JSON.parse(data);
-            console.log(databases);
+            res.send('string', JSON.stringify(databases));
+            res.send('parse', JSON.parse(databases));
 
             return databases;
     
