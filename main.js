@@ -61,11 +61,16 @@ app.get('/', (req, res) => {
 
 // A route that dumps hostname information from pod
 route.get('/', function(req, res) {
-    const data = loadFile();
+    // const data = loadFile();
     res.send('Hi! I am running on host -> ' + hostname + '\n');
-    
+
     // res.send('data', JSON.stringify(data));
     // res.send('data', JSON.parse(data));
+});
+
+route.get('/sri', function(req, res) {
+    // const data = loadFile();
+    res.send('Hi! I am running on host -> ' + hostname + '\n');
 });
 
 // This route handles tax calculation for our service
